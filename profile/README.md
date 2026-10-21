@@ -1,6 +1,6 @@
 # Trends API
 
-One REST endpoint for trend data across 30+ platforms, returned as clean JSON with a normalized 0 to 100 trend score.
+A Google Trends API alternative with one REST endpoint for trend data across 30+ platforms, including Google Trends, TikTok, YouTube, Amazon, Reddit, Steam and npm, returned as clean JSON with a normalized 0 to 100 trend score.
 
 - **Sources:** Google Search, Images, News and Shopping, YouTube, TikTok, Reddit, Amazon, Wikipedia, app stores, npm, PyPI, Steam
 - **Three calls:** time series, growth over any window, and live top-trend feeds
